@@ -1,12 +1,12 @@
-services:
+ services:
   portfolio:
     build: .
     container_name: portfolio
     ports:
       - "8080:80"
     restart: unless-stopped
-    
-uptime-kuma:
+
+  uptime-kuma:
     image: louislam/uptime-kuma:1
     container_name: uptime-kuma
     ports:
