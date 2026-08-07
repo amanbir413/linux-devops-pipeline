@@ -4,6 +4,12 @@
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Architecture
+
+This project follows a simple CI/CD pipeline where every push to the `main` branch automatically deploys the latest version of the application to an AWS EC2 instance using GitHub Actions and Docker.
+
+![Architecture Diagram](diagrams/architecture.png)
+
 A hands-on Cloud & DevOps project where I built a simple portfolio website and deployed it to AWS using Docker and GitHub Actions.
 
 Instead of only learning concepts, I wanted to build something practical that covers the complete deployment workflow—from writing code locally to automatically deploying it to a cloud server.
