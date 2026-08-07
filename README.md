@@ -1,5 +1,9 @@
 # 🚀 Cloud DevOps Portfolio Pipeline
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 A hands-on Cloud & DevOps project where I built a simple portfolio website and deployed it to AWS using Docker and GitHub Actions.
 
 Instead of only learning concepts, I wanted to build something practical that covers the complete deployment workflow—from writing code locally to automatically deploying it to a cloud server.
